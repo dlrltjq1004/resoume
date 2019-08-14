@@ -11,27 +11,27 @@
 
 ## 사용기술
 
-### Language
+#### Language
 + Java 
 + C# 
 + PHP 
 + JSP
 
-### IDE: 
+#### IDE: 
 + Android Sudio 
 + Atom
 + Unity
 + Eclipse 
 + Visual Studio
 
-### TODO
+#### TODO
 
 현재 공부중인 것
 + github
 + Java
 
 
-공부해 보고 싶은 것
+* 공부해 보고 싶은 것
 + 블록체인
 + 컨테이너 기술(doker, jenkins)
 + 보안
