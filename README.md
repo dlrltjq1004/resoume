@@ -66,6 +66,5 @@
 
 + 소개 코딩공부를 시작하고 처음으로 만든 머드게임 입니다.
 + 사용기술 Eclipse, Java
-+ ![](images/Java_%EC%9D%B8%EC%83%9D%EA%B2%8C%EC%9E%84.gif)
-{: width="450" height="350"}
++ ![](images/Java_%EC%9D%B8%EC%83%9D%EA%B2%8C%EC%9E%84.gif){: width="450" height="350"}
 
