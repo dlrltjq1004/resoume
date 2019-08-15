@@ -1,3 +1,7 @@
+img.alignleft{float:left} 
+img.alignright{float:right} 
+img.aligncenter{display:block;margin:0 auto}
+
 # 이력서
 
 + ## 소개
