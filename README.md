@@ -64,8 +64,9 @@
 + 사용기술 Android Sudio, Java, XML
  
  <img src="images/채팅어플_가입_로그인.gif" width="20%" height="10%" style="float:left">
+  <img src="images/Java_채팅어플 -프로필변경.gif" width="20%" height="10%" style="display:block;margin:0 auto">
  <img src="images/Java_채팅어플 - Join.gif" width="20%" height="10%" style="float:right">
- <img src="images/Java_채팅어플 -프로필변경.gif" width="20%" height="10%" style="display:block;margin:0 auto">
+
  
  <!--
  <center><img src="images/Java_채팅어플 -프로필변경.gif" width="20%" height="10%"></center>
