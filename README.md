@@ -60,9 +60,9 @@
 
 + 소개 서버를 사용하지 않고 Shared Preference 이용해 만든 간단한 채팅 어플리케이션입니다.
 + 사용기술 Android Sudio, Java, XML
- <center><img src="images/채팅어플_가입_로그인.gif" width="35%" height="20%"></center>
- <center><img src="images/Java_채팅어플 -프로필변경.gif" width="40%" height="20%"></center>
- <center><img src="images/Java_채팅어플 -Join.gif" width="40%" height="20%"></center>
+ <center><img src="images/채팅어플_가입_로그인.gif" width="20%" height="10%"></center>
+ <center><img src="images/Java_채팅어플 -프로필변경.gif" width="20%" height="10%"></center>
+ <center><img src="images/Java_채팅어플 - Join.gif" width="20%" height="10%"></center>
 
 ### 인생게임
 
