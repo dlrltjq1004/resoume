@@ -1,7 +1,3 @@
-img.alignleft{float:left} 
-img.alignright{float:right} 
-img.aligncenter{display:block;margin:0 auto}
-
 # 이력서
 
 + ## 소개
@@ -64,6 +60,7 @@ img.aligncenter{display:block;margin:0 auto}
 
 + 소개 서버를 사용하지 않고 Shared Preference 이용해 만든 간단한 채팅 어플리케이션입니다.
 + 사용기술 Android Sudio, Java, XML
+ <left><img src="images/채팅어플_가입_로그인.gif" width="20%" height="10%"></left>
  <center><img src="images/채팅어플_가입_로그인.gif" width="20%" height="10%"></center>
  <center><img src="images/Java_채팅어플 -프로필변경.gif" width="20%" height="10%"></center>
  <center><img src="images/Java_채팅어플 - Join.gif" width="20%" height="10%"></center>
