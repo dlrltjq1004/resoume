@@ -63,9 +63,9 @@
 + 소개 서버를 사용하지 않고 Shared Preference 이용해 만든 간단한 채팅 어플리케이션입니다.
 + 사용기술 Android Sudio, Java, XML
  
- <img src="images/채팅어플_가입_로그인.gif" width="20%" height="10%">{:.left}
- <img src="images/Java_채팅어플 -프로필변경.gif" width="20%" height="10%">{:.center}
- <img src="images/Java_채팅어플 - Join.gif" width="20%" height="10%">{:.right}
+ <img src="images/채팅어플_가입_로그인.gif" width="20%" height="10%">{:.left}</img>
+ <img src="images/Java_채팅어플 -프로필변경.gif" width="20%" height="10%">{:.center}</img>
+ <img src="images/Java_채팅어플 - Join.gif" width="20%" height="10%">{:.right}</img>
 
  
  <!--
