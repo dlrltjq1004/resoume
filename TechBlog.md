@@ -1,8 +1,13 @@
 # TechBlog
 
+<br>
+
 ## 프로젝트 소개
 
-프로젝트 소개~~~
+사용기술
+Language: html, css, Java, JavaScript
+IDE:Iclipse
+
 협업에 관련된 이야기~~
 문서화 이야기~~
 
