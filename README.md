@@ -50,8 +50,8 @@
 + 공감세미나 프로젝트에 참여하여 제작한 개인 기술 블로그입니다.
 + 사용기술 Java,JSP, html, css, 
 + 사용 툴  Eclipse, Slack, Trello
-+ [공감세미나 소개는이 링크를 통해 보실수 있습니다.](http://0gam.me/2019/06/05/%EA%B3%B5%EA%B0%90%EC%84%B8%EB%AF%B8%EB%82%98-%EC%A3%BC%EB%8B%88%EC%96%B4-%ED%95%98%EA%B3%A0%ED%94%88-%EA%B0%9C%EB%B0%9C%EC%9D%80-%EC%95%88-%EC%8B%9C%ED%82%A4%EA%B3%A0-%EC%84%A4%EA%B3%84%EB%9D%BC/)
-+ [자세한 설명은 TechBlog.md에 있습니다.](https://github.com/dlrltjq1004/resume/blob/master/TechBlog.md)
++ 공감세미나 소개는[이 링크](http://0gam.me/2019/06/05/%EA%B3%B5%EA%B0%90%EC%84%B8%EB%AF%B8%EB%82%98-%EC%A3%BC%EB%8B%88%EC%96%B4-%ED%95%98%EA%B3%A0%ED%94%88-%EA%B0%9C%EB%B0%9C%EC%9D%80-%EC%95%88-%EC%8B%9C%ED%82%A4%EA%B3%A0-%EC%84%A4%EA%B3%84%EB%9D%BC/)를 통해 보실수 있습니다.
++ 자세한 설명은[이 링크를 통해 보실수 있습니다.](https://github.com/dlrltjq1004/resume/blob/master/TechBlog.md)
 
 ### 노바월드
 
