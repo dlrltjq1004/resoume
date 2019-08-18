@@ -60,22 +60,17 @@
 
 ### 노바톡
 
-+ 소개 서버를 사용하지 않고 Shared Preference 이용해 만든 간단한 채팅 어플리케이션입니다.
-+ 사용기술 Android Sudio, Java, XML
++ 서버를 사용하지 않고 Shared Preference 이용해 만든 간단한 채팅 어플리케이션입니다.
  
- 　　　　<img src="images/채팅어플_가입_로그인.gif" width="20%" height="10%">　　
+ <img src="images/채팅어플_가입_로그인.gif" width="20%" height="10%">　　
  <img src="images/Java_채팅어플 -프로필변경.gif" width="20%" height="10%">　　
  <img src="images/Java_채팅어플 - Join.gif" width="20%" height="10%">
 
  
- <!--
- <center><img src="images/Java_채팅어플 -프로필변경.gif" width="20%" height="10%"></center>
- <center><img src="images/Java_채팅어플 - Join.gif" width="20%" height="10%"></center>
--->
+
 
 ### 인생게임
 
-+ 소개 코딩공부를 시작하고 처음으로 만든 머드게임 입니다.
-+ 사용기술 Eclipse, Java
++ 코딩공부를 시작하고 처음으로 만든 머드게임 입니다.
 
 　<img src="images/Java_%EC%9D%B8%EC%83%9D%EA%B2%8C%EC%9E%84.gif" width="60%" height="50%">
