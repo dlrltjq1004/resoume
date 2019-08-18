@@ -1,17 +1,20 @@
-img.alignleft{float:left} 
-img.alignright{float:right} 
-img.aligncenter{display:block;margin:0 auto}
+
 
 # 이력서
 
-+ ## 소개
+## 소개
+
 + 이름:이기섭
-+ 취미: 
-
-+ 소개글 저는 어떤 사람입니다~~
-
++ 취미:독서, 카페코딩, 코인노래방 가기
 + 이메일:dlrltjq1004@gmail.com
-+ 전화번호: 010-3488-0906
+
+저는 스페셜리스트보다는 제너럴리스트의 성향이 강합니다.
+호기심이 많아 하던 것만 고집하기 보다는 제가 관심 가는 기술이나 프로젝트를 찾아다니며 경험하는것을 좋아합니다.
+
+## 학력 
++ 영북종합고등학교 인터넷정보처리과 졸업(2009 ~ 2012)
+
+
 
 ## 사용기술
 
@@ -20,6 +23,9 @@ img.aligncenter{display:block;margin:0 auto}
 + C# 
 + PHP 
 + JSP
++ html
++ css
++ JavaScript
 
 #### IDE: 
 + Android Sudio 
@@ -28,48 +34,59 @@ img.aligncenter{display:block;margin:0 auto}
 + Eclipse 
 + Visual Studio
 
+커뮤니케이션 Slack
+일정관리 Trello
+
 #### TODO
 
 현재 공부중인 것
 + github
 + Java
 
-
-공부해 보고 싶은 것
+관심기술 & 공부하고 싶은 것
++ AWS
 + 블록체인
-+ 컨테이너 기술(doker, jenkins)
-+ 보안
-+ 게임개발
-+ 클린코드
-+ 
++ 도커
++ 젠킨스
 
-
+<br>
 
 ## 프로젝트
 
+<br>
+
 ### 기술블로그
 
-+ 소개 JSP MVC 패턴을 적용해 만든 블로그 입니다.
-+ 사용기술 Java, html, css
-+ 사용 툴  Eclipse, Slack, Trello
-+ 링크
++ 소개: JSP, MVC패턴을 사용하여 개발한 웹 블로그
++ 관련기술: html, css, jsp, JavaScript, MySql 
++ 협업 툴: Slack, Trello, googleDrive
++ 자세한 설명은[이 링크](https://github.com/dlrltjq1004/resume/blob/master/TechBlog.md)를 통해 보실 수 있습니다.
+
+<br>
 
 ### 노바월드
 
-+ 소개 1대1 AOS 멀티 플레이 전투 게임입니다.
-+ 사용기술 C#, Unity Engin, TCP/IP, 
-+ 링크
++ 소개: Unity를 이용하여 만든 1대1 AOS 게임
++ 관련기술: C#, Java, Unity Engin, TCP/IP, OpenCV
++ 자세한 설명은 [이 링크]()를 통해 보실 수 있습니다.
 
-### 노바톡
+<br>
 
-+ 소개 서버를 사용하지 않고 Shared Preference 이용해 만든 간단한 채팅 어플리케이션입니다.
-+ 사용기술 Android Sudio, Java, XML
- <center><img src="images/채팅어플_가입_로그인.gif" width="20%" height="10%"></center>
- <center><img src="images/Java_채팅어플 -프로필변경.gif" width="20%" height="10%"></center>
- <center><img src="images/Java_채팅어플 - Join.gif" width="20%" height="10%"></center>
+### 채팅 어플리케이션
 
++ 소개: 간단한 채팅 어플리케이션입니다.
++ 서버나 DB를 사용하지 않고 Shared Preference 이용해 로컬에 저장하였습니다.
++ 관련기술: Java, Android
+
+ <img src="images/채팅어플_가입_로그인.gif" width="20%" height="10%">　　
+ <img src="images/Java_채팅어플 -프로필변경.gif" width="20%" height="10%">　　
+ <img src="images/Java_채팅어플 - Join.gif" width="20%" height="10%">
+ 
+<br>
+ 
 ### 인생게임
 
-+ 소개 코딩공부를 시작하고 처음으로 만든 머드게임 입니다.
-+ 사용기술 Eclipse, Java
- <center><img src="images/Java_%EC%9D%B8%EC%83%9D%EA%B2%8C%EC%9E%84.gif" width="52%" height="50%"></center>
++ 소개: 코딩공부를 시작하고 처음으로 만든 머드게임 입니다.
++ 관련기술: Java
+
+　<img src="images/Java_%EC%9D%B8%EC%83%9D%EA%B2%8C%EC%9E%84.gif" width="65%" height="35%">
