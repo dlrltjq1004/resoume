@@ -60,7 +60,8 @@
 
 ### 노바톡
 
-+ 서버를 사용하지 않고 Shared Preference 이용해 만든 간단한 채팅 어플리케이션입니다.
++ 간단한 채팅 어플리케이션입니다.
++ 서버나 DB를 사용하지 않고 Shared Preference 이용해 로컬에 저장하였습니다.
  
  <img src="images/채팅어플_가입_로그인.gif" width="20%" height="10%">　　
  <img src="images/Java_채팅어플 -프로필변경.gif" width="20%" height="10%">　　
