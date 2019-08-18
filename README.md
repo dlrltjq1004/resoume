@@ -57,11 +57,15 @@
 + 관련기술: html, css, jsp, JavaScript, MySql 
 + 자세한 설명은[이 링크](https://github.com/dlrltjq1004/resume/blob/master/TechBlog.md)를 통해 보실 수 있습니다.
 
+<br>
+
 ### 노바월드
 
 + 소개: Unity를 이용하여 만든 1대1 AOS 게임
 + 관련기술: C#, Java, Unity Engin, TCP/IP, OpenCV
 + 자세한 설명은 [이 링크]()를 통해 보실 수 있습니다.
+
+<br>
 
 ### 채팅 어플리케이션
 
@@ -72,6 +76,8 @@
  <img src="images/채팅어플_가입_로그인.gif" width="20%" height="10%">　　
  <img src="images/Java_채팅어플 -프로필변경.gif" width="20%" height="10%">　　
  <img src="images/Java_채팅어플 - Join.gif" width="20%" height="10%">
+ 
+<br>
  
 ### 인생게임
 
