@@ -70,7 +70,7 @@
 
 + 소개: Unity를 이용하여 만든 1대1 AOS 게임
 + 사용기술: C#, Java, Unity Engin, TCP/IP, OpenCV
-+ 자세한 설명은 [이 링크]()를 통해 보실 수 있습니다.
++ 자세한 설명은 [이 링크](https://github.com/dlrltjq1004/resume/blob/master/NovaWolrd.md)를 통해 보실 수 있습니다.
 
 <br>
 
