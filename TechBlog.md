@@ -9,10 +9,8 @@
 공감세미나 소개는[이 링크](http://0gam.me/2019/06/05/%EA%B3%B5%EA%B0%90%EC%84%B8%EB%AF%B8%EB%82%98-%EC%A3%BC%EB%8B%88%EC%96%B4-%ED%95%98%EA%B3%A0%ED%94%88-%EA%B0%9C%EB%B0%9C%EC%9D%80-%EC%95%88-%EC%8B%9C%ED%82%A4%EA%B3%A0-%EC%84%A4%EA%B3%84%EB%9D%BC/)를 통해 보실 수 있습니다.
 <br>
 
-### 사용기술
-+ Java, JSP 
 
-### 협업 툴 
+### 협업 방법
 + Slack, Trello, google Drive
 
 <br>
