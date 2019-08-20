@@ -29,13 +29,6 @@
 + css
 + JavaScript
 
-#### IDE 
-+ Android Sudio 
-+ Atom
-+ Unity
-+ Eclipse 
-+ Visual Studio
-
 ### 기타
 + 커뮤니케이션-Slack
 + 일정관리-Trello
