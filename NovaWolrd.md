@@ -1,24 +1,34 @@
-# 1대1 AOS 멀티플레이 게임
+# 멀티플레이 1대1 AOS 게임
 
 <br>
 
-소개:
+소개:Unity로 개발한 1대1 멀티플레이 AOS게임입니다.
 
 
-회원가입 & 로그인
+### 회원가입 & 로그인
+![](https://github.com/dlrltjq1004/resume/blob/master/images/register_login.gif)
 
-프로필 사진촬영 OpevCV 사용
+<br>
 
-TCP/IP 채팅
+### TCP/IP 채팅
+![](https://github.com/dlrltjq1004/resume/blob/master/images/Chat.gif)
 
-캐릭터 선택
+<br>
+
+### 캐릭터 선택
 ![](https://github.com/dlrltjq1004/resume/blob/master/images/%EC%BA%90%EB%A6%AD%EC%84%A0%ED%83%9D.gif)
 
-플레이어 전투
+<br>
+
+### 플레이어 전투
 ![](https://github.com/dlrltjq1004/resume/blob/master/images/PlayerBattle.gif)
 
-몬스터 사냥
+<br>
+
+### 몬스터 사냥
 ![](https://github.com/dlrltjq1004/resume/blob/master/images/%EB%AA%AC%EC%8A%A4%ED%84%B0%EC%82%AC%EB%83%A5.gif)
 
-포탑 파괴
+<br>
+
+### 포탑 파괴
 ![](https://github.com/dlrltjq1004/resume/blob/master/images/towar.gif)
