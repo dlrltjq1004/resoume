@@ -12,23 +12,23 @@
 <br>
 
 ## TCP/IP 채팅
-<img src="images/Chat.gif"width="55%" height="55%">
+<img src="images/Chat.gif" width="55%" height="55%">
 
 
 <br>
 
 ## 캐릭터 선택
-<img src="images/%EC%BA%90%EB%A6%AD%EC%84%A0%ED%83%9D.gif"width="55%" height="55%">
+<img src="images/%EC%BA%90%EB%A6%AD%EC%84%A0%ED%83%9D.gif" width="55%" height="55%">
 
 <br>
 
 ## 플레이어 전투
-<img src="images/PlayerBattle.gif"width="55%" height="55%">
+<img src="images/PlayerBattle.gif" width="55%" height="55%">
 
 <br>
 
 ## 몬스터 사냥
-<img src="images/%EB%AA%AC%EC%8A%A4%ED%84%B0%EC%82%AC%EB%83%A5.gif"width="55%" height="55%">
+<img src="images/%EB%AA%AC%EC%8A%A4%ED%84%B0%EC%82%AC%EB%83%A5.gif" width="55%" height="55%">
 
 <br>
 
