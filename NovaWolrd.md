@@ -12,7 +12,7 @@
 TCP/IP 채팅
 
 캐릭터 선택
-![](https://github.com/dlrltjq1004/resume/blob/master/images/%EC%BA%90%EB%A6%AD%ED%84%B0%EC%84%A0%ED%83%9D%ED%99%94%EB%A9%B4.PNG)
+![](https://github.com/dlrltjq1004/resume/blob/master/images/.PNG)
 
 플레이어 전투
 ![]()
