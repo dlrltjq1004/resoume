@@ -13,7 +13,7 @@
 
 ## 채팅
 + TCP/IP를 이용한 채팅기능
-<img src="images/Chat.gif" width="600" height="400">
+<img src="images/Chat.gif" width="600" height="500">
 
 
 <br><br>
