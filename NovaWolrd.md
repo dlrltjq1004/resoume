@@ -9,7 +9,7 @@
 
 ## 회원가입 & 로그인
 <img src="images/register_login.gif" width="55%" height="55%">
-<br><br>
+<br><br><br>
 
 ## TCP/IP 채팅
 <img src="images/Chat.gif" width="55%" height="55%">
