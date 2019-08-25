@@ -36,6 +36,5 @@
 <br><br>
 
 ## 포탑 파괴
-+ 공격버튼 입력시 공격범위 안의 대상을 추적하여 공격
 <img src="images/towar.gif" width="55%" height="55%">
 
