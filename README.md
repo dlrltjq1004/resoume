@@ -74,7 +74,7 @@
 + 서버나 DB를 사용하지 않고 Shared Preference 이용해 로컬에 저장하였습니다.
 + 사용기술: Java, Android
 
- <img src="images/채팅어플_가입_로그인.gif" width="20%" height="10%">　　
+ <img src="images/Chat_Register_Login.gif" width="20%" height="10%">　　
  <img src="images/Java_채팅어플 -프로필변경.gif" width="20%" height="10%">　　
  <img src="images/Java_채팅어플 - Join.gif" width="20%" height="10%">
  
