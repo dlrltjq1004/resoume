@@ -25,7 +25,7 @@
 
 ## 플레이어간 전투
 + 공격버튼 입력시 공격범위 안의 대상을 추적하여 공격
-<img src="images/PlayerBattle.gif"width="600" height="400">
+<img src="images/PlayerBattle.gif" width="600" height="400">
 
 <br><br>
 
