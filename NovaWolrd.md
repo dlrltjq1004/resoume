@@ -11,7 +11,8 @@
 <img src="images/register_login.gif" width="55%" height="55%">
 <br><br><br>
 
-## TCP/IP 채팅
+## 채팅
++ TCP/IP를 이용한 채팅기능
 <img src="images/Chat.gif" width="55%" height="55%">
 
 
@@ -22,16 +23,19 @@
 
 <br><br>
 
-## 플레이어 전투
+## 플레이어간 전투
++ 공격버튼 입력시 공격범위 안의 대상을 추적하여 공격
 <img src="images/PlayerBattle.gif" width="55%" height="55%">
 
 <br><br>
 
 ## 몬스터 사냥
++ 몬스터의 공격범위에 들어오면 대상을 추적하여 공격
 <img src="images/%EB%AA%AC%EC%8A%A4%ED%84%B0%EC%82%AC%EB%83%A5.gif" width="55%" height="55%">
 
 <br><br>
 
 ## 포탑 파괴
++ 공격버튼 입력시 공격범위 안의 대상을 추적하여 공격
 <img src="images/towar.gif" width="55%" height="55%">
 
