@@ -36,5 +36,6 @@
 <br><br>
 
 ## 포탑 파괴
++ 포탑을 파괴한 플레이어가 승리 / 파괴당한 플레이어는 패배
 <img src="images/towar.gif" width="600" height="400">
 
