@@ -8,7 +8,7 @@
 <br>
 
 ## 회원가입 & 로그인
-<img src="images/register_login.gif" width="300" height="300">
+<img src="images/register_login.gif" width="500" height="500">
 <br><br><br>
 
 ## 채팅
