@@ -2,6 +2,8 @@
 
 # 이력서
 
+<br>
+
 ## 소개
 
 + 이름:이기섭
@@ -27,15 +29,9 @@
 + css
 + JavaScript
 
-#### IDE: 
-+ Android Sudio 
-+ Atom
-+ Unity
-+ Eclipse 
-+ Visual Studio
-
-커뮤니케이션 Slack
-일정관리 Trello
+### 기타
++ 커뮤니케이션-Slack
++ 일정관리-Trello
 
 #### TODO
 
@@ -58,17 +54,17 @@
 ### 기술블로그
 
 + 소개: JSP, MVC패턴을 사용하여 개발한 웹 블로그
-+ 관련기술: html, css, jsp, JavaScript, MySql 
++ 사용기술: html, css, jsp, JavaScript, MySql 
 + 협업 툴: Slack, Trello, googleDrive
 + 자세한 설명은[이 링크](https://github.com/dlrltjq1004/resume/blob/master/TechBlog.md)를 통해 보실 수 있습니다.
 
 <br>
 
-### 노바월드
+### 멀티플레이 1대1 AOS 게임
 
-+ 소개: Unity를 이용하여 만든 1대1 AOS 게임
-+ 관련기술: C#, Java, Unity Engin, TCP/IP, OpenCV
-+ 자세한 설명은 [이 링크]()를 통해 보실 수 있습니다.
++ 소개: Unity를 이용하여 만든 멀티플레이 1대1 AOS 게임
++ 사용기술: C#, Java, Unity Engin, TCP/IP, OpenCV, PHP, aws-ec2, Ubuntu
++ 자세한 설명은 [이 링크](https://github.com/dlrltjq1004/resume/blob/master/NovaWolrd.md)를 통해 보실 수 있습니다.
 
 <br>
 
@@ -76,17 +72,10 @@
 
 + 소개: 간단한 채팅 어플리케이션입니다.
 + 서버나 DB를 사용하지 않고 Shared Preference 이용해 로컬에 저장하였습니다.
-+ 관련기술: Java, Android
++ 사용기술: Java, Android
 
  <img src="images/채팅어플_가입_로그인.gif" width="20%" height="10%">　　
  <img src="images/Java_채팅어플 -프로필변경.gif" width="20%" height="10%">　　
  <img src="images/Java_채팅어플 - Join.gif" width="20%" height="10%">
  
 <br>
- 
-### 인생게임
-
-+ 소개: 코딩공부를 시작하고 처음으로 만든 머드게임 입니다.
-+ 관련기술: Java
-
-　<img src="images/Java_%EC%9D%B8%EC%83%9D%EA%B2%8C%EC%9E%84.gif" width="65%" height="35%">
