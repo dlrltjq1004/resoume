@@ -54,7 +54,7 @@
 ### 기술블로그
 
 + 소개: JSP, MVC패턴을 사용하여 개발한 웹 블로그
-+ 사용기술: html, css, jsp, JavaScript, MySql 
++ 사용기술: html, css, jsp, JavaScript, MySql, Tomcat8.0 
 + 협업 툴: Slack, Trello, googleDrive
 + 자세한 설명은[이 링크](https://github.com/dlrltjq1004/TechBlog)를 통해 보실 수 있습니다.
 
