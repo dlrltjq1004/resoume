@@ -35,12 +35,12 @@
 #### TODO
 
 현재 공부중인 것
-+ github
-+ Java
++ JavaScript
+
 
 관심기술 & 공부하고 싶은 것
 + AWS
-+ 블록체인
++ React
 + 도커
 + 젠킨스
 
@@ -54,7 +54,7 @@
 
 + 소개: JSP, MVC패턴을 사용하여 개발한 웹 블로그
 + 사용기술: html, css, jsp, JavaScript, MySQL, Tomcat8.0 
-+ 협업 툴: Slack, Trello, googleDrive
++ 기타: Slack, Trello, googleDrive
 + 자세한 설명은[이 링크](https://github.com/dlrltjq1004/TechBlog)를 통해 보실 수 있습니다.
 
 <br>
