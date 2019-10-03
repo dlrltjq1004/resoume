@@ -36,13 +36,11 @@
 
 현재 공부중인 것
 + JavaScript
++ NodeJS
 
 
 관심기술 & 공부하고 싶은 것
-+ AWS
 + React
-+ 도커
-+ 젠킨스
 
 <br>
 
