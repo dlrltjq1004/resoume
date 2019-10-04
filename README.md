@@ -51,7 +51,7 @@
 ### 위튜브(현재 진행중인 프로젝트)
 
 + 소개: 유튜브를 모방하여 만들고 있는 비디오 플랫폼 사이트
-+ 사용기술: html, css, JavaScript(ES6), NodeJS, MongoDB
++ 사용기술: html, css, JavaScript(ES6), NodeJS, MongoDB, express Framework
 + 자세한 설명은[이 링크](https://github.com/dlrltjq1004/wetube)를 통해 보실 수 있습니다.
 
 
