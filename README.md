@@ -7,7 +7,7 @@
 ## 소개
 
 + 이름:이기섭
-+ 취미:독서, 카페코딩, 코인노래방 가기
++ 취미:독서, 카페코딩
 + 이메일:dlrltjq1004@gmail.com
 
 저는 Specialist보다는 Generalist의 성향이 강합니다. 호기심이 많아 하던 것만 고집하기 보다는 제가 관심 있는 기술이나 프로젝트를 찾아다니며 경험하는 것을 좋아합니다.
@@ -26,18 +26,18 @@
 + JSP
 + html
 + css
-+ JavaScript
-+ Node.js
++ JavaScript(ES6)
+
 
 ### 기타
++ Node.js(Express)
 + 커뮤니케이션-Slack
 + 일정관리-Trello
 
 #### TODO
 
 현재 공부중인 것
-+ JavaScript
-+ NodeJS
++ React
 
 
 관심기술 & 공부하고 싶은 것
@@ -52,7 +52,7 @@
 ### 위튜브(현재 진행중인 프로젝트)
 
 + 소개: 유튜브를 모방하여 만들고 있는 비디오 플랫폼 사이트
-+ 사용기술: html, css, JavaScript(ES6), NodeJS, MongoDB, express Framework, ajax
++ 사용기술: html, css, JavaScript(ES6), NodeJS(Express), MongoDB, Ajax, MVC
 + 자세한 설명은[이 링크](https://github.com/dlrltjq1004/wetube)를 통해 보실 수 있습니다.
 
 
