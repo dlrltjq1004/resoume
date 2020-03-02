@@ -52,7 +52,7 @@
 ### 위튜브
 
 + 소개: 유튜브를 모방하여 만들고 있는 비디오 플랫폼 사이트
-+ 사용기술: html, css, JavaScript(ES6), NodeJS(Express), MongoDB, Ajax, MVC
++ 사용기술: JavaScript(ES6), NodeJS(Express), MongoDB, Ajax, MVC, scss, pug
 + 자세한 설명은[이 링크](https://github.com/dlrltjq1004/wetube)를 통해 보실 수 있습니다.
 
 
