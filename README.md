@@ -21,8 +21,7 @@
 
 #### Language
 + Java 
-+ C# 
-+ PHP 
++ C#  
 + JSP
 + html
 + css
